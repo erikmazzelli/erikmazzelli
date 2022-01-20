@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align="right" height="200" src="https://media.giphy.com/media/l3fQ7hK1hpqujCXbG/giphy.gif"/>
 
-<!--
-**Vithenzo/vithenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```diff
+@@Hey there ✋@@
 
-Here are some ideas to get you started:
++I'm Erik, a software developer. Currently focused on 
++frontend, digital design and ui/ux stuff
+-I'm 20 years old, living in São Paulo, Brazil-
+# 💻 Been working with html, js and css! 
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 📃 *[some cool stuff](https://vithenzo.github.io/)* 👈
+
+ <sub> *inspired by *[her](https://github.com/anabastos)** <sup>
