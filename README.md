@@ -1,4 +1,6 @@
 <img align="right" height="200" src="https://media.giphy.com/media/l3fQ7hK1hpqujCXbG/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/l3fQ7hK1hpqujCXbG/giphy.gif"/>
+
 
 ```diff
 @@Hey there ✋@@
