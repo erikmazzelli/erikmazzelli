@@ -13,4 +13,4 @@
 
 ##### 📃 *[some cool stuff](https://vithenzo.github.io/)* 👈
 
- <sub> *inspired by *[her](https://github.com/anabastos)** <sup>
+[//]: <> (inspired by https://github.com/anabastos)
