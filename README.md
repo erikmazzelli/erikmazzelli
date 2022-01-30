@@ -11,6 +11,4 @@
 # 💻 Been working with html, js and css! 
 ```
 
-##### 📃 *[some cool stuff](https://vithenzo.github.io/)* 👈
-
 [//]: <> (inspired by https://github.com/anabastos)
