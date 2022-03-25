@@ -6,9 +6,7 @@
 @@Hey there ✋@@
 
 +I'm Erik, a software developer. Currently focused on 
-+frontend, digital design and ui/ux stuff
++mobile technologies, digital design and UX
 -I'm 20 years old, living in São Paulo, Brazil-
-# 💻 Been working with html, js and css! 
+# 💻 Been working react native, nodejs and a lot of js! 
 ```
-
-[//]: <> (inspired by https://github.com/anabastos)
