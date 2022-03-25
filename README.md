@@ -8,5 +8,5 @@
 +I'm Erik, a software developer. Currently focused on 
 +mobile technologies, digital design and UX
 -I'm 20 years old, living in São Paulo, Brazil-
-# 💻 Been working react native, nodejs and a lot of js! 
+# 💻 Been working with react native, nodejs and a lot of js! 
 ```
