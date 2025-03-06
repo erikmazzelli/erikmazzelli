@@ -1,5 +1,5 @@
 ```diff
-@@Hey there ✋@@
+@@Hey there ✋@@ 
 
 +I'm Erik, a software developer. Currently focused on 
 +frontend technologies, digital design and UX
