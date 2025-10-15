@@ -1,6 +1,6 @@
 ```diff
 @@Hey there ✋@@ 
-
+ 
 +I'm Erik, a software developer. Currently focused on 
 +frontend technologies, digital design and UX
 -I'm 23 years old, living in São Paulo, Brazil-
